@@ -7,3 +7,5 @@ print(sum(numeros))
 print(numeros)
 print(max(numeros))
 print(min(numeros))
+print(sorted(numeros))
+
