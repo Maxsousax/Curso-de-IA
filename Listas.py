@@ -6,3 +6,4 @@ for i in range(5):
 print(sum(numeros))
 print(numeros)
 print(max(numeros))
+print(min(numeros))
