@@ -5,6 +5,4 @@ for i in range(5):
     numeros.append(num)
 print(sum(numeros))
 print(numeros)
-
-
-
+print(max(numeros))
